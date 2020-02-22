@@ -15,7 +15,7 @@ body {
 }
 
 .container {
-		max-width: 1200px;
+    max-width: 1200px;
     width: 90%;
     display: flex;
     justify-content: center;
@@ -43,7 +43,7 @@ ul {
 
 /*The widths are in a percentage!*/
 header {
-	  border-bottom: 3px solid #77a466;
+    border-bottom: 3px solid #77a466;
     text-align: center;
     width: 100%;
     display: flex;
@@ -54,13 +54,13 @@ header {
 
 header h1 {
     font-size: 1.875em;
-		margin: 0;
+    margin: 0;
     padding: 38px 20px 20px 20px;
     border-bottom: 3px solid #77a466;
     width: 100%;
 }
 header h1 span {
-	color: #77a466;
+    color: #77a466;
 }
 
 header nav {
@@ -69,21 +69,21 @@ header nav {
 }
 
 header nav ul {
-	margin: 0;
-	padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 header nav ul li {
-	text-transform: uppercase;
-	font-weight: 700;
-	font-size: .875em;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: .875em;
   padding: 10px 0;
   list-style: none;
 }
 
 header nav ul li a {
-	text-decoration: none;
-	color:#77a466;
+   text-decoration: none;
+   color:#77a466;
 }
 
 /*The widths are in a percentage!*/
@@ -96,21 +96,21 @@ header nav ul li a {
 }
 
 .main-image img {
-	width: 100%;
-	border-bottom: 3px solid #77a466;
+    width: 100%;
+    border-bottom: 3px solid #77a466;
 }
 
 .main-title h3 {
-	text-align: left;
-	padding: 5px 0;
+  text-align: left;
+  padding: 5px 0;
   color: #77a466;
   font-size: 1.125em;
 }
 
 .main-title p {
-	padding: 0;
-	font-size: 1em;
-	line-height: 1.5625;
+    padding: 0;
+    font-size: 1em;
+    line-height: 1.5625;
 }
 
 .section-one,
@@ -121,29 +121,29 @@ header nav ul li a {
 }
 
 .menu {
-	list-style: none;
-	padding: 0;
+    list-style: none;
+    padding: 0;
 }
 
 .menu li {
-	padding: 10px 0;
-	color:#77a466;
+    padding: 10px 0;
+    color:#77a466;
 }
 
 .reviews {
-	color: #333;
-	font-size: 1em;
-	line-height: 1.3125;
+    color: #333;
+    font-size: 1em;
+    line-height: 1.3125;
 }
 
 .address {
-	font-size: 1em;
-	line-height: 1.5;
+    font-size: 1em;
+    line-height: 1.5;
 }
 
 /*The widths are in a percentage!*/
 footer {
-	  border-top: 3px solid #eee;
+    border-top: 3px solid #eee;
     text-align: center;
     width: 100%;
     display: flex;
@@ -153,10 +153,10 @@ footer {
 }
 
 footer span {
-	font-family: 'Wisdom Script', cursive;
-	text-transform: lowercase;
-	color: #77a466;
-	font-size: .875em;
+    font-family: 'Wisdom Script', cursive;
+    text-transform: lowercase;
+    color: #77a466;
+    font-size: .875em;
 }
 
 
